@@ -40,7 +40,7 @@ Misq **Mobile** pairs with your **desktop Bisq or Haveno node** (formerly *Bisq 
 | **Easy‑Protocol Trades** | Buy BTC with fiat instantly—no on‑chain deposit required                              | [Easy Quick Start](https://bisq2.com/misq/quick-start) |
 | **DAO Snapshot**         | View proposals, vote phases, BSQ balance                                              | [DAO Overview](https://bisq2.com/dao/overview)                    |
 | **Biometrics**           | Protect critical actions with fingerprint / Face ID                                   | (N/A)                                                                |
-| **Tor / I2P Routing**    | Forces onion routing via Orbot/InviZible                                              | [Privacy Layer](https://bisq2.com/advanced/privacy)               |
+| **Tor / I2P Routing**    | Forces onion routing via Arti with no dependent apps                                             | [Privacy Layer](https://bisq2.com/advanced/privacy)               |
 
 ---
 
