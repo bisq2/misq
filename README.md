@@ -1,4 +1,4 @@
-# Misq Mobile - *Bisq or Haveno Companion Client*
+# Misq - *Mobile Client for Bisq or Haveno *
 
 <p align="center">
   <a href="https://bisq2.com/misq">
