@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://bisq2.com/misq">
-    <img src="assets/misq.png" alt="Misq fox logo" width="140"/>
+    <img src="assets/misq.png" alt="Misq fox logo" width="340"/>
   </a>
   <br>
   <em>Private · Peer‑to‑Peer · Self‑Custodial</em>
@@ -13,7 +13,7 @@
 
 Misq **Mobile** pairs with your **desktop Bisq or Haveno node** (formerly *Bisq or Bisq 2*) and brings trade notifications, offer browsing, and chat to your phone—without ever holding your private keys or coins, by design you can run a full or micro node on your phone, depends on it's spec.
 
-> 🔗 **New here?** Read **[What is Bisq 2 / Misq?](https://misq.wiki/what_is_bisq.md)** to understand the architecture and security guarantees.
+> 🔗 **New here?** Read **[What is Bisq 2 / Misq?](https://bisq2.com/what_is_bisq)** to understand the architecture and security guarantees.
 
 ---
 
