@@ -1,12 +1,11 @@
-# Misq Mobile - *Bisq Companion Client*
+# Misq Mobile - *Bisq or Haveno Companion Client*
 
 <p align="center">
   <a href="https://bisq2.com/misq">
     <img src="assets/misq.png" alt="Misq fox logo" width="340"/>
   </a>
   <br>
-  <em>Private · Peer‑to‑Peer · Self‑Custodial</em>
-  A full node capabable of running on your phone or by proxy of a secure machine doing the heavy work
+  <em>Private · Peer‑to‑Peer · Self‑Custodial · Multi-Protocol</em>
 </p>
 
 ---
