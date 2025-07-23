@@ -56,12 +56,12 @@ Misq **Mobile** pairs with your **desktop Bisq or Haveno node** (formerly *Bisq 
 
 ```bash
 # Download & verify
-wget https://github.com/your‑org/misq-mobile/releases/download/vX.Y.Z/MisqMobile‑universal.apk
-wget https://github.com/your‑org/misq-mobile/releases/download/vX.Y.Z/SHA256SUMS
+wget https://github.com/bisq2/misq/releases/download/v0.0.1/misq-universal.apk
+wget https://github.com/bisq2/misq/releases/download/v0.0.1/SHA256SUMS
 sha256sum -c SHA256SUMS --ignore‑missing
 
 # Install
-adb install MisqMobile‑universal.apk  # or tap in file manager
+adb install misq‑universal.apk  # or tap in file manager
 ```
 
 *(iOS TestFlight link announced on every GitHub release.)*
